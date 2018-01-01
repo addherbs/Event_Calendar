@@ -16,7 +16,6 @@ function update(){
 				}
 
 
-
 				var l = document.form.lname.value;
 				if(l=="")
 				{
